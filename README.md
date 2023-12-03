@@ -9,7 +9,7 @@
 
 📧 Email - vikramkalra2005@gmail.com
 
-💼 Portfolio - [huzaifa-sheikh.netlify.app](https://vikramkalra05.github.io/portfolio/)
+💼 Portfolio - [vikramkalra05.github.io/portfolio/](https://vikramkalra05.github.io/portfolio/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-kalra-b66903253/) 
